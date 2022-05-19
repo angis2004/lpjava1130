@@ -16,6 +16,8 @@ public class DAOManager {
     
     public static DAOManager getInstancia(){
         return instancia;
+        
+        
     }
     
     //fin de mi Singleton
